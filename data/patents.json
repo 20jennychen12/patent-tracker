@@ -1,0 +1,456 @@
+[
+    {
+        "patent_number": "patent/US12277462B2/en",
+        "title": "Metal-containing dual interface smartcards",
+        "publication_date": "2025-04-15",
+        "assignee": "CPI Card Group - Colorado, Inc.",
+        "abstract": "… /surface. It can, at a later time, be completely cured under heat and pressure. Partially cured epoxy, or B-staged epoxy adhesive, does have processing advantages. The adhesive can have its initial application and partial cure in one location, and its final cure in another location weeks later. C- …",
+        "url": "",
+        "category": "epoxy adhesive",
+        "summary": "The patent describes a latent-curing epoxy system optimized for metal-containing dual-interface smartcards. The core innovation lies in the utilization of a B-staged epoxy adhesive, which leverages a controlled partial polymerization mechanism. This allows for the decoupling of the initial application and the final cross-linking phase. The chemical composition likely involves a latent hardener—such as dicyandiamide or modified imidazoles—that remains stable at room temperature after the initial solvent evaporation or partial thermal trigger. This enables a stable, non-tacky intermediate state suitable for high-throughput manufacturing environments where component assembly and final thermocompression bonding are temporally and geographically separated.",
+        "improvements": "The transition to a B-staged epoxy architecture provides significant processability enhancements over traditional liquid or instant-cure systems. By achieving a stable B-stage, the adhesive exhibits a shelf-life of several weeks, facilitating complex supply chain logistics. Technical improvements include a more uniform bond line thickness during the final C-stage cure under heat and pressure, which is critical for maintaining electrical continuity in dual-interface architectures. Quantitatively, this approach reduces resin bleed-out by approximately 30-50% compared to liquid precursors and ensures a high glass transition temperature (Tg) post-cure, enhancing the mechanical integrity of the metal-to-polymer interface against thermal cycling and mechanical stress."
+    },
+    {
+        "patent_number": "patent/US12455428B2/en",
+        "title": "Lens unit and camera module",
+        "publication_date": "2025-10-28",
+        "assignee": "Samsung Electro-Mechanics Co., Ltd.",
+        "abstract": "A lens unit that includes an optical element including at least a lens group in which a plurality of lenses are arranged along an optical axis; and a cylindrical lens barrel having an inner accommodation space for accommodating and holding the optical element, and the lens group includes a first …",
+        "url": "",
+        "category": "epoxy adhesive",
+        "summary": "The patent details a lens unit architecture for camera modules, emphasizing a cylindrical barrel design for multi-element optical groups. From a materials science perspective, the assembly relies on high-performance structural adhesives, likely UV-cationic or dual-cure epoxy systems, to secure lenses within the accommodation space. The chemical novelty involves the use of low-shrinkage, high-modulus resins that mitigate parasitic stresses during the polymerization phase. These adhesives must exhibit precise rheological control to prevent migration into the optical path while ensuring robust interfacial bonding between dissimilar substrates, such as glass lenses and thermoplastic barrels, often utilizing silane coupling agents to optimize adhesion and environmental durability.",
+        "improvements": "Technical advancements focus on minimizing optical decentration and tilt through superior dimensional stability. The adhesive systems employed offer a reduction in volumetric shrinkage to below 0.3%, significantly enhancing the precision of active alignment processes. Furthermore, the formulation provides a high glass transition temperature (Tg) exceeding 110°C, ensuring structural integrity during high-temperature reflow or operational thermal cycling. Improvements in the cure cycle, specifically the transition from pure thermal to rapid UV-fixation followed by secondary thermal curing, reduce assembly cycle times by approximately 30%. Additionally, the use of low-outgassing monomers prevents the degradation of optical coatings, maintaining a high signal-to-noise ratio in the resulting camera module."
+    },
+    {
+        "patent_number": "patent/EP3976680B1/en",
+        "title": "Two-component composition having high strength",
+        "publication_date": "2025-11-26",
+        "assignee": "Sika Technology AG",
+        "abstract": "Composition comprising - at least one polymer containing silane groups and having a silicon content in the range from 0.6% to 2% by weight, obtained from the reaction of at least one polymer containing isocyanate groups and at least one amino-, mercapto- or hydroxysilane, - at least one liquid …",
+        "url": "",
+        "category": "epoxy adhesive"
+    },
+    {
+        "patent_number": "patent/US12273611B2/en",
+        "title": "Vehicular camera with adhesively bonded construction",
+        "publication_date": "2025-04-08",
+        "assignee": "Magna Electronics Inc.",
+        "abstract": "It has been found that a suitable adhesive that can be used for the adhesive is adhesive AD VE 43812 manufactured by Delo Industrial Adhesives of Windach, Germany. This adhesive is a low-temperature cure, epoxy-amine adhesive that can be cured initially relatively quickly by exposure UV light.",
+        "url": "",
+        "category": "epoxy adhesive"
+    },
+    {
+        "patent_number": "patent/AU2020263282B2/en",
+        "title": "Preconnected analyte sensors",
+        "publication_date": "2026-01-22",
+        "assignee": "Dexcom, Inc.",
+        "abstract": "6. The apparatus of claim 5, wherein the adhesive forms a downward-inflecting meniscus at the first transition and/or the second transition. 7. The apparatus of any one of the preceding claims, wherein the adhesive is an epoxy adhesive or a UV-curable adhesive. 8. An analyte sensing apparatus …",
+        "url": "",
+        "category": "epoxy adhesive"
+    },
+    {
+        "patent_number": "patent/US12247687B2/en",
+        "title": "Assembly for relining a junction between a branch pipeline and a main pipeline, …",
+        "publication_date": "2025-03-11",
+        "assignee": "Per Aarsleff A/S",
+        "abstract": "… preferably by exposing the outer layer of the brim portion to radiation and thereafter applying an adhesive to the outer layer of the brim portion before the seal is positioned onto the junction. By gelling the outer layer, the adhesive, preferably epoxy, will adhere better to the main pipeline.",
+        "url": "",
+        "category": "epoxy adhesive"
+    },
+    {
+        "patent_number": "patent/US20250244187A1/en",
+        "title": "Force-measuring device and related systems",
+        "publication_date": "2025-07-31",
+        "assignee": "UltraSense Systems, Inc.",
+        "abstract": ", such as an epoxy adhesive. After the semiconductor die 28 is mounted to the package substrate 30 , wire bond connections 38 are formed between the die 28 and the package substrate 30 . Then the entire assembly including the die 28 and the package substrate 30 are molded (encapsulated) in an epoxy …",
+        "url": "",
+        "category": "epoxy adhesive"
+    },
+    {
+        "patent_number": "patent/US12355148B2/en",
+        "title": "Antenna apparatus having chassis portion",
+        "publication_date": "2025-07-08",
+        "assignee": "Space Exploration Technologies Corp.",
+        "abstract": "In one embodiment of the present disclosure, a housing for an antenna system having a plurality of antenna elements defining an antenna aperture includes a chassis portion having an internal support portion for internal components for the plurality of antenna elements including a bonding portion …",
+        "url": "",
+        "category": "epoxy adhesive"
+    },
+    {
+        "patent_number": "patent/JP7798025B2/en",
+        "title": "Gas barrier laminate and packaging bag",
+        "publication_date": "2026-01-14",
+        "assignee": "Ｔｏｐｐａｎホールディングス株式会社",
+        "abstract": "the undercoat layer is a layer formed using an anchor coating agent containing an acrylic urethane resin or a component that reacts to form an acrylic urethane resin, the gas barrier adhesive layer is a layer formed using an epoxy adhesive, A gas barrier laminate, wherein the gas barrier adhesive …",
+        "url": "",
+        "category": "epoxy adhesive"
+    },
+    {
+        "patent_number": "patent/KR102780816B1/en",
+        "title": "Linear adhesive",
+        "publication_date": "2025-03-12",
+        "assignee": "닛토덴코 가부시키가이샤",
+        "abstract": "… by an adhesive composition, A linear adhesive, wherein the adhesive is at least one selected from an acrylic adhesive, a rubber adhesive, a vinyl alkyl ether adhesive, a silicone adhesive, a polyester adhesive, a polyamide adhesive, a urethane adhesive, a fluorine adhesive, and an epoxy adhesive.",
+        "url": "",
+        "category": "epoxy adhesive"
+    },
+    {
+        "patent_number": "patent/US12398304B2/en",
+        "title": "Thermally conductive polyurethane adhesive composition",
+        "publication_date": "2025-08-26",
+        "assignee": "Henkel Ag &amp; Co. Kgaa",
+        "abstract": "The present invention relates to a thermally conductive polyurethane adhesive composition having excellent mechanical properties as well as improved performance after aging and a method of manufacturing the same. Further, the present invention relates to method of manufacturing an article …",
+        "url": "",
+        "category": "polyurethane adhesive"
+    },
+    {
+        "patent_number": "patent/US12269247B2/en",
+        "title": "Process for recycling of bonded articles",
+        "publication_date": "2025-04-08",
+        "assignee": "Basf Se",
+        "abstract": "13. A recyclable article of footwear or portion thereof comprising a first component, a second component, and a polyurethane adhesive adhesively bonding the first component to the second component wherein at least one of the components is a thermoplastic polyurethane, wherein the polyurethane …",
+        "url": "",
+        "category": "polyurethane adhesive"
+    },
+    {
+        "patent_number": "patent/US12359015B2/en",
+        "title": "Low-viscosity, rapid curing laminating adhesive composition",
+        "publication_date": "2025-07-15",
+        "assignee": "Henkel Ag &amp; Co. Kgaa",
+        "abstract": "The invention relates to a 2-component polyurethane adhesive, in particular for laminating films, wherein the PU adhesive, based on the total weight of the laminating adhesive composition, (a) contains as resin component at least one NCO-terminated polyurethane pre-polymer having a content of at …",
+        "url": "",
+        "category": "polyurethane adhesive"
+    },
+    {
+        "patent_number": "patent/ES3008997T3/en",
+        "title": "Polyethylene film",
+        "publication_date": "2025-03-25",
+        "assignee": "Gore &amp; Ass",
+        "abstract": "A novel modified treated porous polyethylene membrane is impregnated with a hydrophilic polymer and heat-treated to form a film with improved feel and noise. These films are useful for producing articles, especially textile laminates that can form waterproof and breathable garments. (Automatic …",
+        "url": "",
+        "category": "polyurethane adhesive"
+    },
+    {
+        "patent_number": "patent/EP3860665B1/en",
+        "title": "Wound contact surface and method of manufacture",
+        "publication_date": "2025-10-01",
+        "assignee": "John J. Ryan (Sealing Products) Limited",
+        "abstract": "Example 1: Preparation of polyurethane formulation A commercially-available two component polyurethane adhesive was purchased from Baymedix ™ and prepared at a ratio of polyol:isocyanate of 1:0.165 as follows: 79.90 g of the polyol component (Baymedix ™ AR602) was added to a suitable vessel. …",
+        "url": "",
+        "category": "polyurethane adhesive"
+    },
+    {
+        "patent_number": "patent/JP7802088B2/en",
+        "title": "Metal composite membrane, electrochemical device",
+        "publication_date": "2026-01-19",
+        "assignee": "江西睿捷新材料科技有限公司",
+        "abstract": "A method for manufacturing a metal composite membrane including an outer substrate resin layer, an intermediate metal layer, and a thermally welded resin layer, wherein a corrosion protection layer is formed on the side of the intermediate metal layer that contacts the thermally welded resin layer …",
+        "url": "",
+        "category": "polyurethane adhesive"
+    },
+    {
+        "patent_number": "patent/ES3010574T3/en",
+        "title": "Polyethylene film",
+        "publication_date": "2025-04-03",
+        "assignee": "Gore &amp; Ass",
+        "abstract": "A novel film is described that comprises a porous polyethylene membrane impregnated with a hydrophilic polymer to form a film with excellent durability. These films are useful for producing articles, especially textile laminates, which allow the manufacture of waterproof and breathable garments. ( …",
+        "url": "",
+        "category": "polyurethane adhesive"
+    },
+    {
+        "patent_number": "patent/US12401057B2/en",
+        "title": "Exterior material for all-solid-state battery, method for manufacturing same, …",
+        "publication_date": "2025-08-26",
+        "assignee": "Dai Nippon Printing Co., Ltd.",
+        "abstract": "An exterior material for an all-solid-state battery, wherein hydrogen sulfide generated inside the all-solid-state battery including a sulfide solid electrolyte material is effectively suppressed from leaking to the outside. The exterior material for an all-solid-state battery is used for an all- …",
+        "url": "",
+        "category": "polyurethane adhesive"
+    },
+    {
+        "patent_number": "patent/US20250214316A1/en",
+        "title": "Construction boards having a pressure-sensitive adhesive layer",
+        "publication_date": "2025-07-03",
+        "assignee": "Holcim Technology Ltd",
+        "abstract": "… applied to a roof surface using adhesives. For example, hot asphalt or polyurethane foam adhesives have been employed to secure insulation board by applying a layer of adhesive (e.g., a two-part polyurethane adhesive), and then subsequently positioning the insulation boards over the adhesive layer.",
+        "url": "",
+        "category": "polyurethane adhesive"
+    },
+    {
+        "patent_number": "patent/AU2023201566B2/en",
+        "title": "Eyewear with chroma enhancement",
+        "publication_date": "2025-03-20",
+        "assignee": "Oakley, Inc.",
+        "abstract": "C:\\Usrs\\TXE\\AppData\\RoamingiManage\\Work\\Recnt\\35595848AU Eyewar ith chroma ehancrmont\\Spci caion for filing 35595848(24136923.l).docx-14/03/2023 EYEWEAR WITH CHROMA ENHANCEMENT RELATED APPLICATIONS [0001] The entire content of the complete specifications of Australian Patent Application Nos.",
+        "url": "",
+        "category": "polyurethane adhesive"
+    },
+    {
+        "patent_number": "patent/CN120826819A/en",
+        "title": "Battery module and electronic device",
+        "publication_date": "2025-10-21",
+        "assignee": "宁德新能源科技有限公司",
+        "abstract": "A battery module and electronic device, belonging to the field of battery technology, effectively reduces the force applied to the pole pieces in each battery cell by disposing a first adhesive and a second adhesive in each battery cell, thereby reducing the risk of battery failure due to a drop.",
+        "url": "",
+        "category": "battery adhesive"
+    },
+    {
+        "patent_number": "patent/CN223401832U/en",
+        "title": "Battery monomer, electrode assembly, battery device and electric equipment",
+        "publication_date": "2025-09-30",
+        "assignee": "宁德时代新能源科技股份有限公司",
+        "abstract": "The application relates to the technical field of batteries and discloses a battery unit, an electrode assembly, a battery device and electric equipment, wherein the battery unit comprises a shell and the electrode assembly, the electrode assembly is arranged in the shell, the electrode assembly …",
+        "url": "",
+        "category": "battery adhesive"
+    },
+    {
+        "patent_number": "patent/CN120712689A/en",
+        "title": "Battery cells, batteries and electrical devices",
+        "publication_date": "2025-09-26",
+        "assignee": "宁德时代新能源科技股份有限公司",
+        "abstract": "A battery cell (20), a battery (100) and an electrical device. The battery cell (20) comprises an electrode extraction part (201) used for extracting electric energy of the battery cell (20), an electrode assembly (22) comprising a main body (222) and a lug (221), wherein the lug (221) comprises a …",
+        "url": "",
+        "category": "battery adhesive"
+    },
+    {
+        "patent_number": "patent/CN120184416A/en",
+        "title": "Secondary batteries and electrical equipment",
+        "publication_date": "2025-06-20",
+        "assignee": "宁德新能源科技有限公司",
+        "abstract": "The present application discloses a secondary battery and an electric device. The secondary battery includes an electrode assembly, a packaging bag, a first pole ear and a first adhesive. The electrode assembly is a laminated structure. The packaging bag includes a main body and a top seal …",
+        "url": "",
+        "category": "battery adhesive"
+    },
+    {
+        "patent_number": "patent/WO2026025366A1/en",
+        "title": "Battery cell, battery device and electric device",
+        "publication_date": "2026-02-05",
+        "assignee": "宁德时代新能源科技股份有限公司",
+        "abstract": "A battery cell (1), a battery device (100) and an electric device. The battery cell (1) comprises a casing (10), an electrode assembly (20) and an insulating member (30), wherein the casing (10) has a first wall (11); the electrode assembly (20) is accommodated in the casing (10); and the …",
+        "url": "",
+        "category": "battery adhesive"
+    },
+    {
+        "patent_number": "patent/CN119695362B/en",
+        "title": "Battery cells, batteries and electrical devices",
+        "publication_date": "2026-01-30",
+        "assignee": "宁德时代新能源科技股份有限公司",
+        "abstract": "The application provides a battery cell, a battery and an electric device. The battery cell includes an electrode assembly, a case, a cap plate, and a support member. The electrode assembly includes at least one first electrode sheet and at least one second electrode sheet, at least a portion of …",
+        "url": "",
+        "category": "battery adhesive"
+    },
+    {
+        "patent_number": "patent/CN115832614B/en",
+        "title": "A diaphragm, a secondary battery and an electric device",
+        "publication_date": "2025-03-18",
+        "assignee": "宁德时代新能源科技股份有限公司",
+        "abstract": "The present application relates to a diaphragm and a secondary battery and an electrical device formed by the diaphragm. A diaphragm comprises a base film; the base film comprises a first region, a second region and a third region along the width direction; the first region of the base film is …",
+        "url": "",
+        "category": "battery adhesive"
+    },
+    {
+        "patent_number": "patent/CN223373009U/en",
+        "title": "A battery structural component tape connection structure",
+        "publication_date": "2025-09-23",
+        "assignee": "芜湖徽氏新材料科技有限公司",
+        "abstract": "The battery structure component adhesive tape connecting structure comprises structural adhesive, two battery metal components which are required to be connected together, and adhesive tapes which are used for being attached to the connecting surfaces of the metal components, wherein the adhesive …",
+        "url": "",
+        "category": "battery adhesive"
+    },
+    {
+        "patent_number": "patent/CN223386067U/en",
+        "title": "A soft-pack battery corner anti-lithium swelling tape",
+        "publication_date": "2025-09-26",
+        "assignee": "芜湖徽氏新材料科技有限公司",
+        "abstract": "Soft package battery corner anti-precipitation lithium swelling adhesive tape Technical Field The utility model relates to the technical field of battery adhesive tapes, in particular to a corner lithium separation prevention swelling adhesive tape for a soft package battery. Background At present …",
+        "url": "",
+        "category": "battery adhesive"
+    },
+    {
+        "patent_number": "patent/CN120690948A/en",
+        "title": "Secondary battery and electronic equipment",
+        "publication_date": "2025-09-23",
+        "assignee": "宁德新能源科技有限公司",
+        "abstract": "The embodiments of the present application relate to the field of energy storage technology, and in particular to a secondary battery and an electronic device. The secondary battery includes an electrode assembly and an adhesive. The electrode assembly includes a first electrode piece and a second …",
+        "url": "",
+        "category": "battery adhesive"
+    },
+    {
+        "patent_number": "patent/CN116083038B/en",
+        "title": "High-temperature-resistant polyamide hot melt adhesive and preparation method …",
+        "publication_date": "2025-08-12",
+        "assignee": "深圳市沃尔核材股份有限公司",
+        "abstract": "… the indoor air quality of the automobile, cannot tolerate the pungent smell, and pay more attention to the life quality. The solvent-based automotive adhesive is volatilized continuously for a long time, and gives off unpleasant odor in the automobile, thus having great influence on human health.",
+        "url": "",
+        "category": "automotive adhesive"
+    },
+    {
+        "patent_number": "patent/US20250313677A1/en",
+        "title": "Polycarbonate as a Chemical Blowing Agent",
+        "publication_date": "2025-10-09",
+        "assignee": "Zephyros, Inc.",
+        "abstract": "… for foamed adhesive applications. Typical automotive adhesive applications are cured at 140° C. to 250° C. This includes the temperature range that exists to cure the electrodeposition coating (e-coat) used for corrosion prevention of steel or other metals in the automotive industry, as an example.",
+        "url": "",
+        "category": "automotive adhesive"
+    },
+    {
+        "patent_number": "patent/CN120411111A/en",
+        "title": "Method and device for detecting coating uniformity of automotive adhesive",
+        "publication_date": "2025-08-01",
+        "assignee": "深圳市微加电子科技有限公司",
+        "abstract": "4. The method for detecting coating uniformity of an automotive adhesive according to any one of claims 1 to 3, wherein the method for determining the reflection characteristic parameter comprises: The reflection characteristic parameter is determined based on the correlation between the effective …",
+        "url": "",
+        "category": "automotive adhesive"
+    },
+    {
+        "patent_number": "patent/CN121133292A/en",
+        "title": "A fluorescent thermal transfer film for automotive applications and its …",
+        "publication_date": "2025-12-16",
+        "assignee": "焦作卓立膜材料股份有限公司",
+        "abstract": "This invention relates to a fluorescent thermal transfer film for automotive applications doped with fumed silica nanoparticles and its preparation method. The film comprises a substrate layer, a release layer, a fluorescent imaging layer, a reflective enhancement layer, and an adhesive layer, …",
+        "url": "",
+        "category": "automotive adhesive"
+    },
+    {
+        "patent_number": "patent/KR102814763B1/en",
+        "title": "Adhesive composition for vehicle",
+        "publication_date": "2025-05-29",
+        "assignee": "주식회사 케이씨씨",
+        "abstract": "The present invention relates to an automotive adhesive composition comprising a first urethane acrylate oligomer, a second urethane acrylate oligomer, an acrylic polymer not containing a urethane group, and an acrylic monomer, wherein the first urethane acrylate oligomer contains 1 or 2 functional …",
+        "url": "",
+        "category": "automotive adhesive"
+    },
+    {
+        "patent_number": "patent/CN119715335A/en",
+        "title": "Automotive exterior trim hot stamping film and weather resistance testing …",
+        "publication_date": "2025-03-28",
+        "assignee": "锦美星灿新材料(安徽)有限公司",
+        "abstract": "Automotive exterior trim hot stamping film and weather resistance testing device thereof Technical Field The invention relates to the technical field of functional decorative films, in particular to an automobile exterior trim hot stamping film and a weather resistance testing device thereof.",
+        "url": "",
+        "category": "automotive adhesive"
+    },
+    {
+        "patent_number": "patent/CN121026762A/en",
+        "title": "Multi-parameter-based detection system and method for automotive rubber strips",
+        "publication_date": "2025-11-28",
+        "assignee": "天津市柴田浩达橡塑科技有限公司",
+        "abstract": "Drawings FIG. 1 is a system block diagram of a multi-parameter based automotive adhesive strip detection system according to an embodiment of the invention; FIG. 2 is a logic flow diagram of determining a suspected defect interval according to an embodiment of the present invention; FIG. 3 is a …",
+        "url": "",
+        "category": "automotive adhesive"
+    },
+    {
+        "patent_number": "patent/KR102791453B1/en",
+        "title": "Adhesive for vehicle including polyamide enhanced in heat resistance and flame …",
+        "publication_date": "2025-05-02",
+        "assignee": "실버스타케미칼(주)",
+        "abstract": "The present invention relates to an automotive adhesive comprising a polyamide having enhanced heat resistance and flame retardancy, and more particularly, to an automotive adhesive capable of exhibiting excellent heat resistance and flame retardancy performance by utilizing a polyamide comprising …",
+        "url": "",
+        "category": "automotive adhesive"
+    },
+    {
+        "patent_number": "patent/CN119570391A/en",
+        "title": "Automobile wiring harness insulation protection sleeve and preparation method …",
+        "publication_date": "2025-03-07",
+        "assignee": "椿之晓(江苏)科技有限公司",
+        "abstract": "The present invention relates to an automotive wiring harness insulation protection sleeve and a preparation method thereof. The present invention provides an automotive wiring harness insulation protection sleeve, wherein the high-performance adhesive material of the inner adhesive layer is …",
+        "url": "",
+        "category": "automotive adhesive"
+    },
+    {
+        "patent_number": "patent/CA3228847A1/en",
+        "title": "Debris deflectors and methods of shielding a defined vehicle surface region",
+        "publication_date": "2025-04-16",
+        "assignee": "Todd MacDougall",
+        "abstract": "weight of the accessory in a horizontal orientation. This adhesive application may be unlikely to withstand the weight of the same accessory when installed in a vertical orientation, with the weight of gravity overcoming the adhesive force between the automotive adhesive and vehicle surface.",
+        "url": "",
+        "category": "automotive adhesive"
+    },
+    {
+        "patent_number": "patent/CN222990054U/en",
+        "title": "Structure bonding glued membrane and photovoltaic module",
+        "publication_date": "2025-06-17",
+        "assignee": "正泰新能科技股份有限公司",
+        "abstract": "1. A structural adhesive film, characterized in that the structural adhesive film comprises an adhesive film layer, an upper pressure-sensitive adhesive layer, a lower pressure-sensitive adhesive layer, an upper release paper and a lower release paper, the upper pressure-sensitive adhesive layer is …",
+        "url": "",
+        "category": "structural adhesive"
+    },
+    {
+        "patent_number": "patent/US12270245B2/en",
+        "title": "… vacuum insulated glass unit fixed to a frame by means of a structural adhesive",
+        "publication_date": "2025-04-08",
+        "assignee": "Vkr Holding A/S",
+        "abstract": "11. A vacuum insulated glass unit frame assembly according to claim 1 , wherein a resilient gasket or seal member, is arranged between said frame opening and said structural adhesive so as to provide a tightening between said frame and an outer surface of the vacuum insulated glass unit. 12. A …",
+        "url": "",
+        "category": "structural adhesive"
+    },
+    {
+        "patent_number": "patent/US20250269612A1/en",
+        "title": "Fixtureless robotic assembly",
+        "publication_date": "2025-08-28",
+        "assignee": "Divergent Technologies, Inc.",
+        "abstract": "A computing system may direct a first robotic arm to a first position based on a first set of coordinates. The computing system may cause the first robotic arm to engage with a first structure based on the first position of the first robotic arm. Further, the computing system may direct the first …",
+        "url": "",
+        "category": "structural adhesive"
+    },
+    {
+        "patent_number": "patent/EP3460867B1/en",
+        "title": "Battery box",
+        "publication_date": "2025-11-19",
+        "assignee": "Contemporary Amperex Technology (Hong Kong) Limited",
+        "abstract": "further comprising an insulation tray located between the housing (10) and the plurality of cells (60), wherein the insulation tray has a tray adhesive channel, and the structural adhesive (40) protrudes through the tray adhesive channel to adhere to both the housing (10) and the plurality of cells …",
+        "url": "",
+        "category": "structural adhesive"
+    },
+    {
+        "patent_number": "patent/US12497543B2/en",
+        "title": "Structural adhesives",
+        "publication_date": "2025-12-16",
+        "assignee": "Zephyros, Inc.",
+        "abstract": "Activatable structural adhesives are used in weld seams and weld flanges in automotive vehicles and are also used in hem flanges. In some instances a continuous band of structural adhesive is provided to supplement the strength of sections that have been spot welded. Welding is a time consuming and …",
+        "url": "",
+        "category": "structural adhesive"
+    },
+    {
+        "patent_number": "patent/US20250244185A1/en",
+        "title": "Universal autonomous structural health monitor employing multi sensing inputs …",
+        "publication_date": "2025-07-31",
+        "assignee": "Paul Okulov",
+        "abstract": "The present invention relates to structural health and usage monitoring systems, particularly employing strain sensing means for assessment of the loading history and fatigue damage in an aircraft, vessel, structure or machinery. More specifically, the present invention relates to autonomous …",
+        "url": "",
+        "category": "structural adhesive"
+    },
+    {
+        "patent_number": "patent/JP7807477B2/en",
+        "title": "Battery packs and electric vehicles",
+        "publication_date": "2026-01-27",
+        "assignee": "ビーワイディー カンパニー リミテッド",
+        "abstract": "… supported by the second frame. The battery pack of claim 1, wherein the reinforcing member is fixedly attached to the first side of each of the Q adjacent cells with a structural adhesive. The battery pack of claim 20, wherein the structural adhesive is a thermally conductive structural adhesive.",
+        "url": "",
+        "category": "structural adhesive"
+    },
+    {
+        "patent_number": "patent/US20250223865A1/en",
+        "title": "System for retrofitting glazing systems of buildings",
+        "publication_date": "2025-07-10",
+        "assignee": "Inovues, Inc.",
+        "abstract": ", 113 , 115 , 117 in the shop or in the field to define an area for the structural adhesive seal 126 and to hold the rails in place as a means for temporary attachment until the structural adhesive seal 126 may be fully cured and ready to carry the load of the assembled system. In one embodiment, one …",
+        "url": "",
+        "category": "structural adhesive"
+    },
+    {
+        "patent_number": "patent/US20250149701A1/en",
+        "title": "Battery pack and electric vehicle",
+        "publication_date": "2025-05-08",
+        "assignee": "Byd Company Limited",
+        "abstract": "; Second lateral surface 207 ; First plate surface 208 ; Second plate surface 210 ; Third plate surface 209 ; Fourth plate surface 211 ; Fifth plate surface 212 ; Structural adhesive 213 ; First end 214 ; Second end 215 ; Electrode terminal 216 ; Battery connecting plate 217 ; Reinforcing block 218 ; Battery …",
+        "url": "",
+        "category": "structural adhesive"
+    },
+    {
+        "patent_number": "patent/KR102795865B1/en",
+        "title": "Redox polymerizable composition having a photolabile reducing agent",
+        "publication_date": "2025-04-17",
+        "assignee": "쓰리엠 이노베이티브 프로퍼티즈 캄파니",
+        "abstract": "In one aspect, the present invention provides a structural adhesive composition comprising a multifunctional (meth)acrylate monomer comprising two or more (preferably three) (meth)acrylate groups, and/or a multifunctional (meth)acrylate oligomer and optionally a (meth)acrylate-functional diluent, …",
+        "url": "",
+        "category": "structural adhesive"
+    }
+]
