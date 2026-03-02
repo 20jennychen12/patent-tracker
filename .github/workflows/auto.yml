@@ -1,0 +1,17 @@
+name: update
+on: [push, workflow_dispatch]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: python main.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+      - run: |
+          git config user.name bot
+          git config user.email bot
+          git add .
+          git commit -m up || exit 0
+          git push
